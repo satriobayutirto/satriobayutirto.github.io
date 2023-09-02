@@ -16,7 +16,7 @@ learn about data analyst using microsoft excel by PT. Smart Digital Nusantara (C
 
     
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-![Pivot Table](/img/Pivot_Tabel.png)
+![Pivot Table](/img/Pivot Tabel.png)
 
 ### “Project-Based Virtual Intern : Big Data Analytics Kimia Farma x Rakamin Academy”
 
