@@ -3,7 +3,7 @@
 #### Technical Skills: Python, MySQL, Microsoft Excel
 
 ## Education	 			        		
-- B.E., Mechanical Engineering | The University of Texas at Dallas (_May 2022_)
+- B.E., Mechanical Engineering | Universitas Gadjah Mada (_May 2022_)
 
 ## Work Experience
 **Data  @  (_June 2022 - Present_)**
