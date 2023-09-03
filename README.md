@@ -1,5 +1,5 @@
 # DATA ANALYST
-I am a passionate newbie in the field of data analysis. I have committed myself to develop myself in this regard and have attended a number of courses and trainings related to data analysis.
+I am a passionate beginner in the field of data analysis. I have committed to developing myself in this area and have attended a number of courses and training related to data analysis.
 
 #### Technical Skills: Python, MySQL, Microsoft Excel
 
