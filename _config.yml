@@ -1,10 +1,5 @@
 title: SATRIO BAYU TIRTO LAKSONO
-logo: /img/foto cv - Copy - Copy.jpg
-descritption: I am a passionate newbie in the field of data analysis. I have committed myself to develop myself in this regard and have attended a number of courses and trainings related to data analysis
+logo: /img/foto cv - Copy.jpg
+#Adescritption: 
 show_download: true
 theme: jekyll-theme-minimal
-sections:
-  - certificates:
-      path: /asset/Sertifikat Kelulusan Data Analyst.pdf
-      layout: cards # Pilihan layout: 'cards' atau 'table'
-      sort: date    # Pilihan sort: 'date' atau 'name'
