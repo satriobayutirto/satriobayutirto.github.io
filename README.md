@@ -18,17 +18,19 @@ learn about data analyst using microsoft excel by PT. Smart Digital Nusantara (C
     
 [Publication](https://docs.google.com/spreadsheets/d/19ZbpzoMgXcLphZdPsbp8qDYGLt4Aiq7dkig94vPUYtM/edit?usp=sharing)
 ![Pivot Table](/img/Pivot Tabel.png)
+
 [Certificate](certificate1.html)
 
 ### “Project-Based Virtual Intern : Big Data Analytics Kimia Farma x Rakamin Academy”
 
 In this project, I was given sales data to process the data from start to finish. I use **MySQL** for data processing, as well as **Google Data Studio** to create understandable visualizations. From this project and the mentoring that has been carried out, it has helped me to understand the working conditions in the company and provide the necessary tips to prepare for it.
 
-[Publication](https://drive.google.com/file/d/1iUAEB1CGyKAP95WVpStrzPLOqI8grPSn/view)
+[Publication](https://github.com/satriobayutirto/satriobayutirto.github.io/blob/main/asset/Data%20Mart%20Kimia%20farma.sql)
 ![Querry](/img/MySQL.png)
 
 [Publication](https://lookerstudio.google.com/reporting/8bb96a4d-f6f4-4e6d-9a1a-7bb68f2ad6d9)
 ![Querry](/img/Dashboard Google data studio.png)
 
+[Certificate](certificate2.html)
 
 
