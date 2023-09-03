@@ -4,7 +4,7 @@ I am a passionate beginner in the field of data analysis. I have committed to de
 #### Technical Skills: Python, MySQL, Microsoft Excel
 
 ## Education	 			        		
-- B.E., Mechanical Engineering   |   Universitas Gadjah Mada (_May 2022_)
+- B.E., Mechanical Engineering   |   Universitas Gadjah Mada   (_May 2022_)
  
 
 ## Projects and Training
