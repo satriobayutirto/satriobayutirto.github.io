@@ -19,7 +19,11 @@ learn about data analyst using microsoft excel by PT. Smart Digital Nusantara (C
 [Publication](https://docs.google.com/spreadsheets/d/19ZbpzoMgXcLphZdPsbp8qDYGLt4Aiq7dkig94vPUYtM/edit?usp=sharing)
 ![Pivot Table](/img/Pivot Tabel.png)
 
+Data Visualization with Tablue
+[Publication](https://public.tableau.com/app/profile/satrio.bayu.tirto.laksono/viz/datacakap/Dashboard1?publish=yes)
+
 [Certificate](certificate1.html)
+
 
 ### “Project-Based Virtual Intern : Big Data Analytics Kimia Farma x Rakamin Academy”
 
