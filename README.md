@@ -1,4 +1,4 @@
-# DATA ANALYST
+# DATA ANALYST OR DATA SCIENCE
 
 #### Technical Skills: Python, MySQL, Microsoft Excel
 
@@ -36,5 +36,12 @@ In this project, I was given sales data to process the data from start to finish
 ![Querry](/img/Dashboard Google data studio.png)
 
 [Certificate](certificate2.html)
+
+### BOOTCAMP DATA SCIENCE
+Bootcamp by dibimbing
+
+At this bootcamp, I learned things that I didn't learn before. such as more advanced data preprocessing, deeper understanding and machine learning. For more information that has been studied, you can check the link below
+
+https://github.com/satriobayutirto/Dibimbing
 
 
