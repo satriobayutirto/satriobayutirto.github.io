@@ -1,4 +1,4 @@
-#  Kimia Farama dataset
+#  Kimia Farma dataset
 
 •  Diberikan beberapa data tabel yaitu: penjualan,barang dan pelanggan.
 
