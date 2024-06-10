@@ -11,8 +11,12 @@
 
 •  Dilanjutkan membuat data mart dengan penambah kolom agregasi menggunakan _COMmon Table Expression_,
     Dimana pada kolom agregasi menampilkan nilai nilai sebagai berikut:
+    
     1. Total pendapatan bulanan
+    
     2. Insight penggan (jumlah transaksi pelanggan, total harga baranga yang dibeli, dan rata rata jumlah barang yang dibeli
+    
     3. Insight Produk (Junka terjual perbarang, total pendapatan perbarangm dan rata rata yang terjual)
+    
     4. Total keseluruhan (total transaksi, total pendapatan, dan rata rata pendapatan)
 
