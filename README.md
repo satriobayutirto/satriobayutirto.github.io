@@ -39,12 +39,13 @@ In this project, I was given sales data to process the data from start to finish
 ### BOOTCAMP DATA SCIENCE
 Bootcamp by dibimbing
 
-At this bootcamp, I learned things that I didn't learn before. such as more advanced data preprocessing, deeper understanding and machine learning. For more information that has been studied, you can check the link below
+At this bootcamp, we learned things that we didn't learn before. such as more advanced data preprocessing, deeper understanding and machine learning. For more information that has been studied, you can check the link below
 
 [Publication](https://github.com/satriobayutirto/Dibimbing)
 #### Data Visualization with Tableau
-![Querry](/img/Extra Class1.png)
 
 [Publication](https://public.tableau.com/app/profile/satrio.bayu.tirto.laksono/viz/ExtraClassTableau1/Dashboard1)
+
+![Tableau](/img/Extra Class1.png)
 #### Cleaning
 
