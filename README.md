@@ -42,6 +42,6 @@ Bootcamp by dibimbing
 
 At this bootcamp, I learned things that I didn't learn before. such as more advanced data preprocessing, deeper understanding and machine learning. For more information that has been studied, you can check the link below
 
-https://github.com/satriobayutirto/Dibimbing
-
+[Publication](https://github.com/satriobayutirto/Dibimbing)
+#### Cleaning
 
