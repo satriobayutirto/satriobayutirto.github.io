@@ -47,5 +47,6 @@ At this bootcamp, we learned things that we didn't learn before. such as more ad
 [Publication](https://public.tableau.com/app/profile/satrio.bayu.tirto.laksono/viz/ExtraClassTableau1/Dashboard1)
 
 ![Tableau](/img/Extra Class1.png)
-#### Cleaning
+#### Final Project
+[Presentasion](pptfinal.html)
 
