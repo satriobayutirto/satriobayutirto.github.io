@@ -1,10 +1,10 @@
-# DATA ANALYST OR DATA SCIENCE
+# Welcome to Portofolio
 
-#### Technical Skills: Python, MySQL, Microsoft Excel
+#### Technical Skills: Python, MySQL, Tableau, Google Data Studio, Machine Learning, Microsoft Excel
 
 ## Education	 			        		
 - B.E., Mechanical Engineering   |   Universitas Gadjah Mada     (_May 2022_)
- 
+- Bootcamp Data Science   |   Dibimbing         (_June 2024_)
 
 ## Projects and Training
 ### Data Analyst Training
