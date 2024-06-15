@@ -4,7 +4,7 @@
 
 ## Education	 			        		
 - B.E., Mechanical Engineering   |   Universitas Gadjah Mada     (_May 2022_)
-- Bootcamp Data Science   |   Dibimbing         (_June 2024_)
+- Bootcamp Data Science   |   Dibimbing         (_January - June 2024_)
 
 ## Projects and Training
 ### Data Analyst Training
