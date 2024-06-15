@@ -52,6 +52,7 @@ This project is one of the bootcamp graduation requirements, and the topic is ab
 You can check for presentation:
 
 [Presentation](pptfinal.html)
+
 and Github publication:
 
 [Publication](https://github.com/satriobayutirto/Supply-Chain-BackOrder)
