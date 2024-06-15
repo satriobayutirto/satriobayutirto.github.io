@@ -49,6 +49,10 @@ At this bootcamp, we learned things that we didn't learn before. such as more ad
 ![Tableau](/img/Extra Class1.png)
 #### Final Project
 This project is one of the bootcamp graduation requirements, and the topic is about backorders in the supply chain.
-[Presentasion](pptfinal.html)
-[Publivation](https://github.com/satriobayutirto/Supply-Chain-BackOrder)
+You can check for presentation:
+
+[Presentation](pptfinal.html)
+and Github publication:
+
+[Publication](https://github.com/satriobayutirto/Supply-Chain-BackOrder)
 
